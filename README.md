@@ -17,10 +17,10 @@ S3 bucket download and upload and check code.
 5. [Testing](#testing)
 6. [Lint](#lint)
 7. [Swagger](#swagger)
-8. [Python-Debugger-With-Docker](#Running Python's PDB debugger with Docker)
+8. [PythonDebuggerWithDocker](#Running Python's PDB debugger with Docker)
 9. [production](#production)
 10. [important](#important)
-11. [production-commands](##production commands)
+11. [productionCommands](##production commands)
 
 ## Dependencies
 
