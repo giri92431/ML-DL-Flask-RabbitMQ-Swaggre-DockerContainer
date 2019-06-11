@@ -1,4 +1,4 @@
-# Flask Application for Ml Dev to prod
+# Flask Application for Machine Learning and Deep Learning Dev to prod
 
 Production Ready Flask application with docker container with uwsgi and nginx config with wait time up to 10 min.
 
