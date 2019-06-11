@@ -17,10 +17,10 @@ S3 bucket download and upload and check code.
 5. [Testing](#testing)
 6. [Lint](#lint)
 7. [Swagger](#swagger)
-8. [PythonDebuggerWithDocker](#Running Python's PDB debugger with Docker)
+8. [PythonDebuggerWithDocker](#Running-Python's-PDB-debugger-with-Docker)
 9. [production](#production)
 10. [important](#important)
-11. [productionCommands](##production commands)
+11. [productionCommands](##productionCommands)
 
 ## Dependencies
 
@@ -141,7 +141,7 @@ The API description will be available http://127.0.0.1:3000/spec.
 
 The Swagger UI will be available  http://127.0.0.1:3000/apidocs.
 
-## Running Python's PDB debugger with Docker
+## Running-Python's-PDB-debugger-with-Docker
 1. Add to docker-compose.yml
   ```bash
   stdin_open: true  
@@ -202,7 +202,7 @@ to use both as an api and a consumer add this lines in docker file
 COPY ./prestart.sh /app
 ```
 
-#production commands
+#productionCommands
 To change the environment variable for production use prod.env 
 
 To build image use 
